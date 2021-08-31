@@ -7,6 +7,9 @@
 ## Toolset 🛠️
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original.svg" alt="c" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/django/django-plain.svg" alt="cplusplus" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg" alt="css3" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original-wordmark.svg" alt="figma" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original.svg" alt="flutter" width="60" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/tailwindcss/tailwindcss-plain.svg" alt="git" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg" alt="html5" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="python" width="60" height="60"/></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=synerjay&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="synerjay's Github Stats">
+
+
 <!--
 **synerjay/synerjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
