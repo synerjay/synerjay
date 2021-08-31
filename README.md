@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Jerome, a full stack developer based in Tokyo. Always love learning something new!
+### Hello there 👋 I'm Jerome
 
 
 
